@@ -21,7 +21,7 @@ public class PokeTrader
 			System.out.println("\nChoose a Pokemon to exchange with " + pokeParty[0] + ". (Or enter 0 to quit.)");
 			System.out.print("> ");
 			x = keyboard.nextInt();
-
+			
 			// add code here to swap the Pokemon in slot 0 with the Pokemon in slot x
 			
 			String temp = pokeParty[0];
