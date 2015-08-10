@@ -1,8 +1,6 @@
-import java.net.URL;
-import java.util.Scanner;
-
 public class MadLibRandom
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args)
 	{
 		String[] males = { "Rob", "Darius", "Cliff", "Dane", "Monty", "Reggie", "Gus",

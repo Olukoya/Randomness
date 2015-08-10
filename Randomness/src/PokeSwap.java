@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class PokeSwap
 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
 		Scanner keyboard = new Scanner(System.in);
@@ -67,4 +68,5 @@ public class PokeSwap
 			System.out.println( pokeParty[0] + " fainted." );
 		}
 	}
+	
 }
